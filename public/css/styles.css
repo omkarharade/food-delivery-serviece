@@ -40,7 +40,7 @@ h3{
 
 .container-fluid{
   /* padding: 3% 15% 1%; */
-  padding: 1% 5% 1% 8%;
+  padding: 1% 5% 0% 8%;
 }
 
 /* Navigation bar */
@@ -66,6 +66,15 @@ h3{
 
 .link{
   color: #2b1d0e!important;
+}
+
+.navbar-toggler{
+  background-color: #654321 !important;
+  border-color: #2b1d0e !important;
+
+}
+.navbar-toggler:hover{
+  background-color: #2b1d0e !important;
 }
 
 .text-end {
@@ -137,6 +146,57 @@ h3{
   height: 5.5rem;
   width: 15rem;
 } */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#confirm{
+
+  text-align: center!important;
+  padding : 6% 25% 5%;
+
+}
+.confirm{
+  text-align: center!important;
+  color: green;
+  font-weight: bold;
+  padding-bottom: 2rem;
+}
+
+.confirm-txt{
+  font-size: 2rem;
+  margin-top: 1.5rem;
+
+}
+
+.confirm-img{
+  width:35%;
+}
+
+.after-confirm{
+  padding-bottom: 2%;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 .footer{
