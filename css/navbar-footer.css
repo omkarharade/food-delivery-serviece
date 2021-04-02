@@ -90,8 +90,8 @@ nav{
 
 @media screen and (max-width:600px){
   body{
-    display: none;
-    overflow-x: visible;
+
+    overflow-x: hidden;
   }
   .nav-links{
     position: absolute;
@@ -115,7 +115,7 @@ nav{
 }
 
 .nav-avtive{
-  transform: translateX(0%%);
+  transform: translateX(0%);
 }
 
 
