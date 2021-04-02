@@ -129,52 +129,12 @@ h3{
   background-color: #654321;
   color:white ;
   border-color: #2b1d0e;
-<<<<<<< HEAD
-  margin-top: 2rem;
-=======
   margin-top: 1rem
->>>>>>> om
 }
 .submit-button:hover{
   background-color: #2b1d0e;
   color: white;
 }
-
-<<<<<<< HEAD
-#confirm{
-
-  text-align: center!important;
-  padding : 7% 35% 7%;
-
-}
-
-.confirm-img{
-  width:40%;
-}
-
-#footer{
-=======
-/* #footer{
->>>>>>> om
-  background-color:#2b1d0e;
-  color: white;
-  text-align: center;
-  padding: 7% 15%;
-}
-.social-icon{
-  margin: 20px 20px;
-  color: white;
-}
-
-.col-md-3{
-  height: 5.5rem;
-  width: 15rem;
-} */
-
-
-
-
-
 
 
 
